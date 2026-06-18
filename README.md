@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Ankit Kumar
-- 👀 I’m interested in Kubernetes Admin Role
-- 🌱 I’m currently preparing for CKA Exam
-- 💞️ I’m looking to collaborate on Kubernetes related stuff
+- 👋 Hi, I’m @Ankit 
 - 📫 YOu can reach me on godentro@gmail.com
 
 
